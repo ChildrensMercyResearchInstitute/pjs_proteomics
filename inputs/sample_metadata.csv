@@ -1,0 +1,27 @@
+code,sample,patient,tissue,location,batch,polyp_size_mm,size_notes
+0441-02-0002,0441_Mucosa_02_J,441,Mucosa,Jejunum,b2,0,
+0441-02-0003,0441_Mucosa_03_I,441,Mucosa,Ileum,b2,0,
+0441-02-0010,0441_Mucosa_10_I,441,Mucosa,Ileum,b2,0,
+0441-02-0012,0441_Mucosa_12_I,441,Mucosa,Ileum,b2,0,
+0444-02-0002,0444_Mucosa_02_J,444,Mucosa,Jejunum,b2,0,
+0444-02-0003,0444_Mucosa_03_I,444,Mucosa,Ileum,b2,0,
+0444-02-0006,0444_Mucosa_06_J,444,Mucosa,Jejunum,b2,0,
+0444-02-0010,0444_Mucosa_10_I,444,Mucosa,Ileum,b2,0,
+0256-02-0004,0256_Mucosa_04_J,256,Mucosa,Jejunum,b1,0,
+0256-02-0003,0256_Mucosa_03_J,256,Mucosa,Jejunum,b1,0,
+0262-02-0005,0262_Mucosa_05_I,262,Mucosa,Ileum,b1,0,
+0262-02-0001,0262_Mucosa_01_I,262,Mucosa,Ileum,b1,0,
+0441-02-0001,0441_Polyp_01_J,441,Polyp,Jejunum,b2,10,
+0441-02-0011,0441_Polyp_11_I,441,Polyp,Ileum,b2,15,
+0444-02-0001,0444_Polyp_01_J,444,Polyp,Jejunum,b2,3,
+0444-02-0004,0444_Polyp_04_I,444,Polyp,Ileum,b2,3,
+0444-02-0005,0444_Polyp_05_J,444,Polyp,Jejunum,b2,6,
+0444-02-0011,0444_Polyp_11_I,444,Polyp,Ileum,b2,40,
+0262-02-0002,0262_Polyp_02_I,262,Polyp,Ileum,b1,11,no units
+0256-02-0005,0256_Polyp_05_J,256,Polyp,Jejunum,b1,4,<5 mm
+0256-02-0002,0256_Polyp_02_J,256,Polyp,Jejunum,b1,4,<5 mm
+0256-02-0001,0256_Polyp_01_J,256,Polyp,Jejunum,b1,4,<5 mm
+0262-02-0004,0262_Polyp_04_I,262,Polyp,Ileum,b1,3,
+0262-02-0003,0262_Polyp_03_I,262,Polyp,Ileum,b1,12,no units
+0218-02-0002,0218_Polyp_02_J,218,Polyp,Jejunum,b1,20,
+0218-02-0001,0218_Polyp_01_J,218,Polyp,Jejunum,b1,20,
