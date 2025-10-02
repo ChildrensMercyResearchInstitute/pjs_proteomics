@@ -48,7 +48,7 @@ all_table0$proteo_log2FC <- case_when(
   TRUE ~ all_table0$proteo_log2FC
 )
 all_table0$proteo_pValue <- case_when(
-  is.na(all_table0$proteo_pValue) ~ 0,
+  is.na(all_table0$proteo_pValue) ~ 1,
   TRUE ~ all_table0$proteo_pValue
 )
 
@@ -174,5 +174,6 @@ for(protein in mucosa_poi2){
           xlab(protein) + ylab('log(counts)'))
   dev.off()
 }
+
 
 
